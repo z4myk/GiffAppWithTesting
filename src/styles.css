@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@300&family=Ubuntu:wght@300;400&display=swap');
+
+
+* {
+  
+  background-color: #191a19 ;
+    
+  }
+  ​
+  body {
+    padding: 60px;
+
+   
+  }
+
+ 
+
+  .inputForm{
+    border: 1px solid #ff0000 !important ;
+    all: unset;
+    list-style: none;
+    text-decoration: none;
+    outline: none;
+    outline-style: none;
+   }
+
+   .gifs{
+     cursor: pointer;
+   }
+   .gifs:hover{
+    /* position: relative;
+    bottom: 30px; */
+    margin-top: 10px;
+    transition-duration: 500ms;
+
+   }
+
+   .red{
+    text-shadow: 0 0 5px  #ff0000,
+    0 0 10px  #ff0000,
+    0 0 20px  #ff0000,
+    0 0 40px  #ff0000,
+    0 0 80px  #ff0000,
+    0 0 90px  #ff0000,
+    0 0 100px  #ff0000;
+
+}

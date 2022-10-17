@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test en <GiftItem /> Debe concidir con el snapshot  1`] = `
+<div>
+  <div
+    class="w-25 my-2"
+  >
+    <img
+      alt="gif"
+      class="w-75 rounded gifs"
+      src="https://dragon-ball.com/goku.jpg"
+    />
+  </div>
+</div>
+`;
